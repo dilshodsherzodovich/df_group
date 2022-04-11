@@ -1,0 +1,45 @@
+@font-face {
+  font-family: p-black;
+  src: url(../fonts/Poppins-Black.ttf);
+}
+
+@font-face {
+  font-family: p-bold;
+  src: url(../fonts/Poppins-Bold.ttf);
+}
+
+@font-face {
+  font-family: p-light;
+  src: url(../fonts/Poppins-Light.ttf);
+}
+
+@font-face {
+  font-family: p-medium;
+  src: url(../fonts/Poppins-Medium.ttf);
+}
+
+@font-face {
+  font-family: p-regular;
+  src: url(../fonts/Poppins-Regular.ttf);
+}
+
+@font-face {
+  font-family: p-semibold;
+  src: url(../fonts/Poppins-SemiBold.ttf);
+}
+
+@font-face {
+  font-family: p-thin;
+  src: url(../fonts/Poppins-Thin.ttf);
+}
+
+* {
+  font-family: p-medium;
+}
+
+:root {
+  --basic-color-1: #000;
+  --basic-color-2: #fff;
+  --secondary-color: #fa5c45;
+}
+/*# sourceMappingURL=global.css.map */

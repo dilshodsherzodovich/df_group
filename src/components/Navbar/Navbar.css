@@ -1,0 +1,17 @@
+.navbar-img {
+  width: 150px;
+}
+
+.navbar .container .navbar-collapse .navbar-nav .nav-item .nav-link {
+  margin: 0 20px;
+  font-size: 20px;
+  color: var(--basic-color-1);
+  opacity: 0.7;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+}
+
+.navbar .container .navbar-collapse .navbar-nav .nav-item .nav-link:hover {
+  opacity: unset;
+}
+/*# sourceMappingURL=Navbar.css.map */
